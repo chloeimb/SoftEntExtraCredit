@@ -1,6 +1,4 @@
-# SoftEntExtraCredit
-
-Key-Value Database Extra Credit
+# Software Enterprise Extra Credit
 
 REQUIREMENTS
 python 3
